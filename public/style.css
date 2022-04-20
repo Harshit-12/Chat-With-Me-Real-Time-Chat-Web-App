@@ -1,0 +1,92 @@
+*{
+    /* background-color: cadetblue; */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f8f8f8;
+    font-family: ;
+}
+
+section.chat{
+    width: 800px;
+    max-width: 90%;
+    background: #fff;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.logo{
+    padding: 20px;
+    background: #f1f1f1;
+    display: flex;
+    align-items: center;
+}
+.logo h1{
+    font-size: 20px;
+    color: #444;
+    margin-left: 10px;
+}
+.messagearea{
+    height: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    padding-top: 40px;
+}
+textarea {
+    width: 100%;
+    border: none;
+    padding: 20px;
+    font-size: 16px;
+    outline: none;
+    background: #fbfb;
+}
+
+.message{
+    padding: 20px;
+    border-radius: 4px;
+    position:relative;
+
+}
+
+.inc{
+    /* background: #792eb6; */
+    background-color: DodgerBlue;
+    float: left;
+    color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    /* font-family: 'Caveat', cursive; */
+    width: 40%;
+}
+.out{
+    background: rgba(29, 245, 22, 0.733);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color:#444;
+    float:right;
+    width:50%;
+    /* font-family: 'Caveat', cursive; */
+    margin-left: 50%;
+}
+h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.name{
+    margin-left: 50%;
+}
+h1{
+    /* font-family: 'Patrick Hand', cursive; */
+    font-size: 3rem;
+}

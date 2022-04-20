@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\Chat With Me\\public\\code.cpp","tests":[{"id":1650380505855,"input":"2\n4\n1 2 3 4 \n4\n2 1 3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Chat With Me\\public\\code.cpp","group":"local","local":true}
