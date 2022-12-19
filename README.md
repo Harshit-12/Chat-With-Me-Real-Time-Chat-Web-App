@@ -13,3 +13,5 @@ This is a Real Time chatting Web App it uses Node.Js and Socket.io. It s user fr
 
 ## This Web App is Responsive over various Devices having different Screen Sizes.
 ![responsive](https://user-images.githubusercontent.com/64789508/172022453-b3c3c69b-78fc-409d-b08e-1fafbd2fd510.PNG)
+
+![responsive](https://user-images.githubusercontent.com/64789508/172022453-b3c3c69b-78fc-409d-b08e-1fafbd2fd510.PNG)
